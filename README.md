@@ -1,7 +1,7 @@
 # Hi there 👋 Here's Simone Jia Wei
 
 ## About me 🚀
-### I'm a passionate first-year Computer Science student at the University of Nottingham.
+### I'm a passionate Computer Science student at the University of Nottingham.
 ### Languages: Python, Haskell, JavaScript, C++
 
 ## Let's Connect 🌐
